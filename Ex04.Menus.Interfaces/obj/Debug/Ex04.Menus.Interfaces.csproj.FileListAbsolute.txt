@@ -1,0 +1,7 @@
+C:\Users\omerm\source\repos\A24 Ex04 OmerMadhala 207917725 ShaniMirzayev 2123558121\A24 Ex04 OmerMadhala 207917725 ShaniMirzayev 212355812\Ex04.Menus.Interfaces\bin\Debug\Ex04.Menus.Interfaces.dll.config
+C:\Users\omerm\source\repos\A24 Ex04 OmerMadhala 207917725 ShaniMirzayev 2123558121\A24 Ex04 OmerMadhala 207917725 ShaniMirzayev 212355812\Ex04.Menus.Interfaces\bin\Debug\Ex04.Menus.Interfaces.dll
+C:\Users\omerm\source\repos\A24 Ex04 OmerMadhala 207917725 ShaniMirzayev 2123558121\A24 Ex04 OmerMadhala 207917725 ShaniMirzayev 212355812\Ex04.Menus.Interfaces\bin\Debug\Ex04.Menus.Interfaces.pdb
+C:\Users\omerm\source\repos\A24 Ex04 OmerMadhala 207917725 ShaniMirzayev 2123558121\A24 Ex04 OmerMadhala 207917725 ShaniMirzayev 212355812\Ex04.Menus.Interfaces\obj\Debug\Ex04.Menus.Interfaces.csproj.AssemblyReference.cache
+C:\Users\omerm\source\repos\A24 Ex04 OmerMadhala 207917725 ShaniMirzayev 2123558121\A24 Ex04 OmerMadhala 207917725 ShaniMirzayev 212355812\Ex04.Menus.Interfaces\obj\Debug\Ex04.Menus.Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\omerm\source\repos\A24 Ex04 OmerMadhala 207917725 ShaniMirzayev 2123558121\A24 Ex04 OmerMadhala 207917725 ShaniMirzayev 212355812\Ex04.Menus.Interfaces\obj\Debug\Ex04.Menus.Interfaces.dll
+C:\Users\omerm\source\repos\A24 Ex04 OmerMadhala 207917725 ShaniMirzayev 2123558121\A24 Ex04 OmerMadhala 207917725 ShaniMirzayev 212355812\Ex04.Menus.Interfaces\obj\Debug\Ex04.Menus.Interfaces.pdb
